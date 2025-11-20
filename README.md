@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Gurung</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **MERN**
-
 - 📫 How to reach me **abhinaverog100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
